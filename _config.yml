@@ -1,19 +1,4 @@
-name: LAZARUS XI
-favicon: null
-layout_spectrum: 0.43921605218201876
-typography_spectrum: 0.7536795299965888
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#E0FBFC'
@@ -21,8 +6,13 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.06901473947800696
-  lightness: 0.05161115853115916
-  saturation: 0.0015143409837037325
-  rhythmicContrast: 0.6179525176994503
+  brandStrength: 0.438322
+  lightness: 0.254112
+  rhythmicContrast: 0.514803
+  saturation: 0.137336
+cta: {}
+layout_spectrum: 0.530822
+name: LAZARUS XI
+opengraph: {}
 purpose: []
+typography_spectrum: 0.736301
